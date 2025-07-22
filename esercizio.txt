@@ -1,0 +1,12 @@
+ALGORITMO viene considerato come un'insieme di regole o input, 
+che diamo al nostro programma afinche ci restituisce un output. Come quando programmiamo un viaggio, 
+il nostro algoritmo sarà la nostra valigia oppure il nostro itinerario. 
+la valigia contiene varie categorie di vestiti ma nell'insieme risolvono il nostro problema di cosa 
+ci mettiamo oppure nel caso dell'itinerario: le attività della giornata e le modalità sarà il nostro algoritmo per la vacanza. 
+
+VARIABILE, è una porzione di dati che compongono il nostro algortitmo, che deve essere elaborato parzialmente o totalmente. 
+Nel caso del viaggio: la variabile sono i vestiti. 
+
+UNDEFINED/NULL 
+Sono le caratteristiche che noi diamo alle nostre varibili; nel caso del null è quando la nostra variabile è intenzionalmente nulla, 
+invece nel secondo caso parliamo di un valore non definito, viene assegnato in automatico dal codice per una proprieta mancante. 
